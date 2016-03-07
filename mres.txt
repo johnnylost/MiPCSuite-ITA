@@ -978,7 +978,7 @@
 "条"=" lines"
 "已过期"="Expired"
 "提醒时间:"="Reminder time: "
-"密码不能为空"="Enter password"
+"密码不能为空"="Inserisci password"
 "无"="None"
 "整机备份"="Back up device"
 "备份失败"="Couldn't back up device"
